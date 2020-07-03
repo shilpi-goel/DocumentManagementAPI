@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentManagementAPI", "DocumentManagementAPI\DocumentManagementAPI.csproj", "{8367C3E0-4AF2-4658-8885-CDF4F6F20BD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentManagementAPI.Tests", "DocumentManagementAPI.Tests\DocumentManagementAPI.Tests.csproj", "{1B089B12-B441-4A91-A448-778555C44360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8367C3E0-4AF2-4658-8885-CDF4F6F20BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8367C3E0-4AF2-4658-8885-CDF4F6F20BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8367C3E0-4AF2-4658-8885-CDF4F6F20BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8367C3E0-4AF2-4658-8885-CDF4F6F20BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B089B12-B441-4A91-A448-778555C44360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B089B12-B441-4A91-A448-778555C44360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B089B12-B441-4A91-A448-778555C44360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B089B12-B441-4A91-A448-778555C44360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60958247-E273-48DC-A12D-643FA51D7BEF}
+	EndGlobalSection
+EndGlobal
